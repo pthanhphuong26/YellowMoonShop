@@ -4,10 +4,10 @@
 Yellow Moon shop is an online shop selling moon cakes
 
 ## Technogies
-- MVC2 Model
-- Java Jsp, Servlet, Filter as Main Controller
-- SQL Servlet, JDBC
-- HTML, CSS, JQuery, Bootstrap
+- MVC 2 Model
+- Java JSP, Servlet, Filter as Main Controller
+- SQL Server, JDBC
+- HTML, CSS, jQuery, Bootstrap
 - Google API 
 
 ## Features
