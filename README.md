@@ -1,16 +1,16 @@
 # Project Java Web: YellowMoonShop
 
-##Background
+## Background
 Yellow Moon shop is an online shop selling moon cakes
 
-##Technogies
+## Technogies
 - MVC2 Model
 - Java Jsp, Servlet, Filter as Main Controller
 - SQL Servlet, JDBC
 - HTML, CSS, JQuery, Bootstrap
 - Google API 
 
-##Features
+## Features
 1. Login, Authorization
 2. Search Cakes
 3. Update Cake
@@ -19,4 +19,4 @@ Yellow Moon shop is an online shop selling moon cakes
 6. Track orders
 7. Login with third party (Google)
 
-###&copy; 2020 - Pham Thanh Phuong - FPT University
+### &copy; 2020 - Pham Thanh Phuong - FPT University
